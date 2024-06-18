@@ -25,3 +25,5 @@ java ServidorBiblioteca caminho/para/seu/arquivo.json 12345
 
 3. Interagir com o Servidor
 Após iniciar o servidor, você pode interagir com ele usando um cliente socket que envie comandos adequados para listar livros, cadastrar novos livros, alugar e devolver livros.
+
+Alunos: Caio Carnauba, Enzo Rodrigo, Gabriel Soares, Joao Victor Miranda, Lucas Stoppa.
