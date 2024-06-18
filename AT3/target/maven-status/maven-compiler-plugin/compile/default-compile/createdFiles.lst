@@ -1,0 +1,6 @@
+org\example\ManipuladorCliente.class
+org\example\ClienteBiblioteca.class
+org\example\ServidorBiblioteca.class
+org\example\Livro.class
+org\example\Biblioteca$1.class
+org\example\Biblioteca.class
